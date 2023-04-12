@@ -1,2 +1,2 @@
-# LIC3-LIAGE
+# LIC3
 Exercice pratique du cours
